@@ -1,1 +1,3 @@
-# cell-in-an-excel
+Absolute Cell Reference: An absolute cell reference is one that does not change when it is copied. To make a cell reference absolute, you must include a $ before the reference (ex: $C$4).The other type of reference is a Relative Reference..
+Active Cell: The active cell is the cell in the spreadsheet that is currently selected for data entry. You can change which cell is the active cell by clicking the left mouse button once or using the arrow keys on the keyboard. The current active cell can be identified as being the one that has a darker black border around it. Also, the active cell reference is listed in the Name Box directly above the spreadsheet's column headings.
+Anchor Cell: The anchor cell is the first cell that is highlighted in a range. When a range of cells is selected, they appear as highlighted in black. The anchor cell, however, remains white. If only one cell is selected in the sheet, it is the anchor cell.
